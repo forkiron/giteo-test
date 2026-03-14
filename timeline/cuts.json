@@ -7,9 +7,9 @@
           "id": "item_001_000",
           "media_ref": "sha256:887251c26828",
           "name": "0117.mov",
-          "record_end_frame": 86409,
+          "record_end_frame": 86407,
           "record_start_frame": 86400,
-          "source_end_frame": 9,
+          "source_end_frame": 7,
           "source_start_frame": 0,
           "track_index": 1,
           "transform": {
