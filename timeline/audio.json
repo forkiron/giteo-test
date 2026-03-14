@@ -2,16 +2,7 @@
   "audio_tracks": [
     {
       "index": 1,
-      "items": [
-        {
-          "end_frame": 86640,
-          "id": "audio_001_000",
-          "media_ref": "sha256:unknown_a0",
-          "pan": 0.0,
-          "start_frame": 86400,
-          "volume": 0.0
-        }
-      ]
+      "items": []
     }
   ]
 }

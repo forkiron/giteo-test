@@ -1,3 +1,11 @@
 {
-  "assets": {}
+  "assets": {
+    "sha256:1d1edb69f240": {
+      "codec": "PNG",
+      "duration_frames": 1,
+      "filename": "placeholder_item_002_000.png",
+      "original_path": "/Users/thomaslenh/Codes/giteo-test-project/.giteo/temp/placeholder_item_002_000.png",
+      "resolution": "1x1"
+    }
+  }
 }
