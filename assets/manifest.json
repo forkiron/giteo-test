@@ -1,11 +1,3 @@
 {
-  "assets": {
-    "sha256:887251c26828": {
-      "codec": "H.264 High L4.1",
-      "duration_frames": 157,
-      "filename": "0117.mov",
-      "original_path": "/Users/thomaslenh/Movies/CapCut/0117.mov",
-      "resolution": "1920x1080"
-    }
-  }
+  "assets": {}
 }

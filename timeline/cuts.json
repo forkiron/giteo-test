@@ -4,12 +4,14 @@
       "index": 1,
       "items": [
         {
+          "generator_name": "Timeline 1.giteo-old.1773525598",
           "id": "item_001_000",
-          "media_ref": "sha256:887251c26828",
-          "name": "0117.mov",
-          "record_end_frame": 86421,
-          "record_start_frame": 86401,
-          "source_end_frame": 20,
+          "item_type": "generator",
+          "media_ref": "generator:item_001_000",
+          "name": "Timeline 1.giteo-old.1773525598",
+          "record_end_frame": 86525,
+          "record_start_frame": 86400,
+          "source_end_frame": 125,
           "source_start_frame": 0,
           "track_index": 1,
           "transform": {
@@ -44,7 +46,7 @@
             },
             "font": "Open Sans",
             "size": 0.09,
-            "styled_text": "Custom dfgsgs"
+            "styled_text": "lucas\n"
           },
           "track_index": 2,
           "transform": {
