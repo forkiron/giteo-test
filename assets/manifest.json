@@ -1,11 +1,11 @@
 {
   "assets": {
-    "sha256:1d1edb69f240": {
-      "codec": "PNG",
-      "duration_frames": 1,
-      "filename": "placeholder_item_002_000.png",
-      "original_path": "/Users/thomaslenh/Codes/giteo-test-project/.giteo/temp/placeholder_item_002_000.png",
-      "resolution": "1x1"
+    "sha256:887251c26828": {
+      "codec": "H.264 High L4.1",
+      "duration_frames": 157,
+      "filename": "0117.mov",
+      "original_path": "/Users/thomaslenh/Movies/CapCut/0117.mov",
+      "resolution": "1920x1080"
     }
   }
 }

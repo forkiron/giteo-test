@@ -5,12 +5,12 @@
       "items": [
         {
           "id": "item_001_000",
-          "media_ref": "sha256:1d1edb69f240",
-          "name": "placeholder_item_002_000.png",
-          "record_end_frame": 86520,
-          "record_start_frame": 86400,
-          "source_end_frame": 86520,
-          "source_start_frame": 86400,
+          "media_ref": "sha256:887251c26828",
+          "name": "0117.mov",
+          "record_end_frame": 86526,
+          "record_start_frame": 86401,
+          "source_end_frame": 125,
+          "source_start_frame": 0,
           "track_index": 1,
           "transform": {
             "Opacity": 100.0,
