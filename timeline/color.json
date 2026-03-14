@@ -11,6 +11,18 @@
       ],
       "num_nodes": 1,
       "version_name": "Version 1"
+    },
+    "item_002_000": {
+      "drx_file": "item_002_000_1.1.1.drx",
+      "nodes": [
+        {
+          "index": 1,
+          "label": "",
+          "lut": ""
+        }
+      ],
+      "num_nodes": 1,
+      "version_name": ""
     }
   }
 }

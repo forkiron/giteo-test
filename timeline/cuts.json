@@ -7,11 +7,33 @@
           "id": "item_001_000",
           "media_ref": "sha256:887251c26828",
           "name": "0117.mov",
-          "record_end_frame": 86443,
+          "record_end_frame": 86525,
           "record_start_frame": 86400,
-          "source_end_frame": 43,
+          "source_end_frame": 125,
           "source_start_frame": 0,
           "track_index": 1,
+          "transform": {
+            "Opacity": 100.0,
+            "Pan": 0.0,
+            "Tilt": 0.0,
+            "ZoomX": 1.0,
+            "ZoomY": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "items": [
+        {
+          "id": "item_002_000",
+          "media_ref": "sha256:unknown_0",
+          "name": "Text",
+          "record_end_frame": 86525,
+          "record_start_frame": 86400,
+          "source_end_frame": 125,
+          "source_start_frame": 0,
+          "track_index": 2,
           "transform": {
             "Opacity": 100.0,
             "Pan": 0.0,
