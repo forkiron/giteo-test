@@ -1,0 +1,80 @@
+Composition {
+	CurrentTime = 16,
+	RenderRange = { 0, 119 },
+	GlobalRange = { 0, 119 },
+	CurrentID = 3,
+	HiQ = true,
+	PlaybackUpdateMode = 0,
+	StereoMode = false,
+	Version = "DaVinci Resolve 20.3.2.0009",
+	SavedOutputs = 0,
+	HeldTools = 0,
+	DisabledTools = 0,
+	LockedTools = 0,
+	AudioOffset = 0,
+	Resumable = true,
+	OutputClips = {
+	},
+	CustomData = {
+		TEMPLATE_ID = "Text+"
+	},
+	Tools = {
+		Template = TextPlus {
+			CtrlWZoom = false,
+			Inputs = {
+				GlobalOut = Input { Value = 119, },
+				Width = Input { Value = 1280, },
+				Height = Input { Value = 720, },
+				UseFrameFormatSettings = Input { Value = 1, },
+				StyledText = Input { Value = "lucas\n", },
+				Font = Input { Value = "Open Sans", },
+				Style = Input { Value = "Semibold", },
+				Size = Input { Value = 0.09, },
+				VerticalJustificationNew = Input { Value = 3, },
+				HorizontalJustificationNew = Input { Value = 3, }
+			},
+			ViewInfo = OperatorInfo { Pos = { 220, 49.5 } },
+		},
+		MediaOut1 = Saver {
+			Inputs = {
+				Index = Input { Value = "0", },
+				Input = Input {
+					SourceOp = "Template",
+					Source = "Output",
+				}
+			},
+			ViewInfo = OperatorInfo { Pos = { 440, 49.5 } },
+		}
+	},
+	Frames = {
+	},
+	Prefs = {
+		Comp = {
+			Interactive = {
+				Proxy = {
+					Scale = 1,
+				},
+			},
+			Views = {
+				View1 = {
+				},
+			},
+			Paths = {
+				Map = {
+					["ResolveCaches:"] = "/Users/thomaslenh/Movies/CacheClip/b7e92a8a-0dea-4761-803d-556e5560b2c7/a407872b-92eb-4908-aaa3-5c5617523d38/0be57826-2924-496d-89df-497ee75d19b7/Fusion",
+				},
+			},
+			FrameFormat = {
+				Width = 1280,
+				Height = 720,
+				Rate = 24,
+				DepthFull = 3,
+				DepthPreview = 3,
+				DepthInteractive = 3,
+			},
+			Unsorted = {
+				GlobalEnd = 119
+			},
+		}
+	},
+}
