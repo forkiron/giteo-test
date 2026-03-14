@@ -1,8 +1,8 @@
 Composition {
-	CurrentTime = 1,
+	CurrentTime = 21,
 	RenderRange = { 0, 119 },
 	GlobalRange = { 0, 119 },
-	CurrentID = 7,
+	CurrentID = 3,
 	HiQ = true,
 	PlaybackUpdateMode = 0,
 	StereoMode = false,
@@ -15,7 +15,9 @@ Composition {
 	Resumable = true,
 	OutputClips = {
 	},
-	CustomData = { TEMPLATE_ID = "Text+" },
+	CustomData = {
+		TEMPLATE_ID = "Text+"
+	},
 	Tools = {
 		Template = TextPlus {
 			CtrlWZoom = false,
@@ -24,7 +26,7 @@ Composition {
 				Width = Input { Value = 1280, },
 				Height = Input { Value = 720, },
 				UseFrameFormatSettings = Input { Value = 1, },
-				StyledText = Input { Value = "lu\n\n", },
+				StyledText = Input { Value = "Custom dfgsgs", },
 				Font = Input { Value = "Open Sans", },
 				Style = Input { Value = "Semibold", },
 				Size = Input { Value = 0.09, },
@@ -53,9 +55,13 @@ Composition {
 					Scale = 1,
 				},
 			},
+			Views = {
+				View1 = {
+				},
+			},
 			Paths = {
 				Map = {
-					["ResolveCaches:"] = "/Users/thomaslenh/Movies/CacheClip/b7e92a8a-0dea-4761-803d-556e5560b2c7/5ada193c-3057-4e73-9faa-ecb052238226/00a756ae-a76b-43c0-b6b5-be2df1813af6/Fusion",
+					["ResolveCaches:"] = "/Users/thomaslenh/Movies/CacheClip/b7e92a8a-0dea-4761-803d-556e5560b2c7/d7a91017-2f3e-411a-9ddf-88903b052259/e1f69fed-326e-4104-9af5-0de7a337347e/Fusion",
 				},
 			},
 			FrameFormat = {
