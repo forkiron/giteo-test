@@ -1,5 +1,5 @@
 Composition {
-	CurrentTime = 0,
+	CurrentTime = 2,
 	RenderRange = { 0, 119 },
 	GlobalRange = { 0, 119 },
 	CurrentID = 3,
@@ -26,7 +26,7 @@ Composition {
 				Width = Input { Value = 1280, },
 				Height = Input { Value = 720, },
 				UseFrameFormatSettings = Input { Value = 1, },
-				StyledText = Input { Value = "jin liffss\n\n", },
+				StyledText = Input { Value = "Custom Title", },
 				Font = Input { Value = "Open Sans", },
 				Style = Input { Value = "Semibold", },
 				Size = Input { Value = 0.09, },
@@ -61,7 +61,7 @@ Composition {
 			},
 			Paths = {
 				Map = {
-					["ResolveCaches:"] = "/Users/thomaslenh/Movies/CacheClip/b7e92a8a-0dea-4761-803d-556e5560b2c7/076851b2-0848-416c-9e63-f2d1aa780e77/3646d146-a17e-420f-bc2c-53a97a9505ca/Fusion",
+					["ResolveCaches:"] = "/Users/thomaslenh/Movies/CacheClip/b7e92a8a-0dea-4761-803d-556e5560b2c7/55bb32dd-ec8a-4e6c-adce-85fe3e9ac244/a2711be8-2f83-4e52-81ec-88bd2a1aa066/Fusion",
 				},
 			},
 			FrameFormat = {

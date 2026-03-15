@@ -21,6 +21,41 @@
           }
         }
       ]
+    },
+    {
+      "index": 2,
+      "items": [
+        {
+          "fusion_comp_file": "item_002_000.comp",
+          "generator_name": "Text+",
+          "id": "item_002_000",
+          "item_type": "title",
+          "media_ref": "generator:item_002_000",
+          "name": "Text+",
+          "record_end_frame": 86520,
+          "record_start_frame": 86400,
+          "source_end_frame": 120,
+          "source_start_frame": 0,
+          "text_properties": {
+            "color": {
+              "b": 1.0,
+              "g": 1.0,
+              "r": 1.0
+            },
+            "font": "Open Sans",
+            "size": 0.09,
+            "styled_text": "Custom Title"
+          },
+          "track_index": 2,
+          "transform": {
+            "Opacity": 100.0,
+            "Pan": 0.0,
+            "Tilt": 0.0,
+            "ZoomX": 1.0,
+            "ZoomY": 1.0
+          }
+        }
+      ]
     }
   ]
 }
