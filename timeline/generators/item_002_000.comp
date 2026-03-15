@@ -2,7 +2,7 @@ Composition {
 	CurrentTime = 0,
 	RenderRange = { 0, 119 },
 	GlobalRange = { 0, 119 },
-	CurrentID = 5,
+	CurrentID = 7,
 	HiQ = true,
 	PlaybackUpdateMode = 0,
 	StereoMode = false,
@@ -57,7 +57,7 @@ Composition {
 			},
 			Paths = {
 				Map = {
-					["ResolveCaches:"] = "/Users/thomaslenh/Movies/CacheClip/b7e92a8a-0dea-4761-803d-556e5560b2c7/8932ff0a-fa15-4762-96c1-b27f01a740e4/6dd15d71-b6db-475b-88bc-9de15aa27e78/Fusion",
+					["ResolveCaches:"] = "/Users/thomaslenh/Movies/CacheClip/b7e92a8a-0dea-4761-803d-556e5560b2c7/7e5f7338-d2a6-4716-a7e0-df2d09bcb2a5/f4da5f45-b95f-404e-bfe2-4d8a4853212a/Fusion",
 				},
 			},
 			FrameFormat = {
