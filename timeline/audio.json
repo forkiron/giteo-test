@@ -4,11 +4,11 @@
       "index": 1,
       "items": [
         {
-          "end_frame": 86526,
+          "end_frame": 86524,
           "id": "audio_001_000",
           "media_ref": "sha256:887251c26828",
           "pan": 0.0,
-          "start_frame": 86401,
+          "start_frame": 86400,
           "volume": 0.0
         }
       ]
