@@ -26,7 +26,7 @@ Composition {
 				Width = Input { Value = 1280, },
 				Height = Input { Value = 720, },
 				UseFrameFormatSettings = Input { Value = 1, },
-				StyledText = Input { Value = "Custom Title", },
+				StyledText = Input { Value = "sdaf fasdasdf", },
 				Font = Input { Value = "Open Sans", },
 				Style = Input { Value = "Semibold", },
 				Size = Input { Value = 0.09, },
@@ -61,7 +61,7 @@ Composition {
 			},
 			Paths = {
 				Map = {
-					["ResolveCaches:"] = "/Users/thomaslenh/Movies/CacheClip/b7e92a8a-0dea-4761-803d-556e5560b2c7/0eee188e-6cee-407c-bae0-38d373a4908c/ca1bcfc3-eb35-4b74-aade-bdcf3ddcfaff/Fusion",
+					["ResolveCaches:"] = "/Users/thomaslenh/Movies/CacheClip/b7e92a8a-0dea-4761-803d-556e5560b2c7/721f58c4-5307-4c78-9247-b1401afd0e74/e164e818-6d5f-4944-8078-bca3205e3ab0/Fusion",
 				},
 			},
 			FrameFormat = {
