@@ -7,9 +7,14 @@
           "index": 1,
           "label": "",
           "lut": ""
+        },
+        {
+          "index": 2,
+          "label": "",
+          "lut": ""
         }
       ],
-      "num_nodes": 1,
+      "num_nodes": 2,
       "version_name": "Version 1"
     }
   }
