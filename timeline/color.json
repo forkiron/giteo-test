@@ -6,7 +6,10 @@
         {
           "index": 1,
           "label": "",
-          "lut": ""
+          "lut": "",
+          "tools": [
+            "Primary Offset"
+          ]
         }
       ],
       "num_nodes": 1,
