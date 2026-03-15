@@ -1,5 +1,5 @@
 Composition {
-	CurrentTime = 2,
+	CurrentTime = 1,
 	RenderRange = { 0, 119 },
 	GlobalRange = { 0, 119 },
 	CurrentID = 3,
