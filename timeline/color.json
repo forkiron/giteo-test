@@ -6,10 +6,7 @@
         {
           "index": 1,
           "label": "",
-          "lut": "",
-          "tools": [
-            "Auto Color"
-          ]
+          "lut": ""
         }
       ],
       "num_nodes": 1,
